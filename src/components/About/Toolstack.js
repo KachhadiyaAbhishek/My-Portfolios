@@ -15,7 +15,7 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiNotepadplusplus />
-        <h5>Notpade++</h5>
+        <h5>Notepad++</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiGithub />
