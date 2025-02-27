@@ -23,7 +23,7 @@ function Projects() {
               imgPath={RealEstate}
               title="HomeScape"
               description="HomeScape is a website which provides property`s details, property news and user can get filter wiseproperty`s. User can send message to agent by mail. also created different pages in frontend."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
+ghLink="https://github.com/KachhadiyaAbhishek/Real-Estate-Web"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
